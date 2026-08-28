@@ -1,0 +1,7 @@
+E:\Hassnain BSCS\oop class\bro code\bro code\bin\Debug\bro code.exe.config
+E:\Hassnain BSCS\oop class\bro code\bro code\bin\Debug\bro code.exe
+E:\Hassnain BSCS\oop class\bro code\bro code\bin\Debug\bro code.pdb
+E:\Hassnain BSCS\oop class\bro code\bro code\obj\Debug\bro code.csproj.AssemblyReference.cache
+E:\Hassnain BSCS\oop class\bro code\bro code\obj\Debug\bro code.csproj.CoreCompileInputs.cache
+E:\Hassnain BSCS\oop class\bro code\bro code\obj\Debug\bro code.exe
+E:\Hassnain BSCS\oop class\bro code\bro code\obj\Debug\bro code.pdb

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hassnain BSCS\\oop class\\bro code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2059F2D-B096-4F93-9628-D5A59E62AB03}|bro code\\bro code.csproj|e:\\hassnain bscs\\oop class\\bro code\\bro code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2059F2D-B096-4F93-9628-D5A59E62AB03}|bro code\\bro code.csproj|solutionrelative:bro code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2059F2D-B096-4F93-9628-D5A59E62AB03}|bro code\\bro code.csproj|E:\\Hassnain BSCS\\oop class\\bro code\\bro code\\oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2059F2D-B096-4F93-9628-D5A59E62AB03}|bro code\\bro code.csproj|solutionrelative:bro code\\oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "oop.cs",
+              "DocumentMoniker": "E:\\Hassnain BSCS\\oop class\\bro code\\bro code\\oop.cs",
+              "RelativeDocumentMoniker": "bro code\\oop.cs",
+              "ToolTip": "E:\\Hassnain BSCS\\oop class\\bro code\\bro code\\oop.cs",
+              "RelativeToolTip": "bro code\\oop.cs",
+              "ViewState": "AgIAAA4AAADgMjMzM5M3wBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:45:16.543Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hassnain BSCS\\oop class\\bro code\\bro code\\Program.cs",
+              "RelativeDocumentMoniker": "bro code\\Program.cs",
+              "ToolTip": "E:\\Hassnain BSCS\\oop class\\bro code\\bro code\\Program.cs*",
+              "RelativeToolTip": "bro code\\Program.cs*",
+              "ViewState": "AgIAAFUAAAAIMzMzMzMTwGgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T11:20:48.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
