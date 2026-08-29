@@ -1,0 +1,7 @@
+E:\Hassnain BSCS\oop class\project\project\bin\Debug\project.exe.config
+E:\Hassnain BSCS\oop class\project\project\bin\Debug\project.exe
+E:\Hassnain BSCS\oop class\project\project\bin\Debug\project.pdb
+E:\Hassnain BSCS\oop class\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+E:\Hassnain BSCS\oop class\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\Hassnain BSCS\oop class\project\project\obj\Debug\project.exe
+E:\Hassnain BSCS\oop class\project\project\obj\Debug\project.pdb
