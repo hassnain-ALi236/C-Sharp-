@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|e:\\hassnain bscs\\oop projects\\spaceshooter\\spaceshooter\\gamedev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|solutionrelative:spaceshooter\\gamedev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|e:\\hassnain bscs\\oop projects\\spaceshooter\\spaceshooter\\gamedev.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|solutionrelative:spaceshooter\\gamedev.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|solutionrelative:spaceshooter\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|e:\\hassnain bscs\\oop projects\\spaceshooter\\spaceshooter\\gamedev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|solutionrelative:spaceshooter\\gamedev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|e:\\hassnain bscs\\oop projects\\spaceshooter\\spaceshooter\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|solutionrelative:spaceshooter\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|solutionrelative:spaceshooter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gamedev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|solutionrelative:spaceshooter\\gamedev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gamedev.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|solutionrelative:spaceshooter\\gamedev.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|e:\\hassnain bscs\\oop projects\\spaceshooter\\spaceshooter\\gamedev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|solutionrelative:spaceshooter\\gamedev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD7724C2-B047-4456-A75D-542D3438A6B8}|spaceshooter\\spaceshooter.csproj|E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -38,30 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "gamedev.cs",
               "DocumentMoniker": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gamedev.cs",
               "RelativeDocumentMoniker": "spaceshooter\\gamedev.cs",
-              "ToolTip": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gamedev.cs",
-              "RelativeToolTip": "spaceshooter\\gamedev.cs",
-              "ViewState": "AgIAALEAAACwzMzMzMwuwLwAAAArAAAAAAAAAA==",
+              "ToolTip": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gamedev.cs*",
+              "RelativeToolTip": "spaceshooter\\gamedev.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T07:56:52.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "gamedev.Designer.cs",
               "DocumentMoniker": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gamedev.Designer.cs",
               "RelativeDocumentMoniker": "spaceshooter\\gamedev.Designer.cs",
-              "ToolTip": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gamedev.Designer.cs",
-              "RelativeToolTip": "spaceshooter\\gamedev.Designer.cs",
-              "ViewState": "AgIAAAwAAAAA+P////8fwBcAAAAnAAAAAAAAAA==",
+              "ToolTip": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gamedev.Designer.cs*",
+              "RelativeToolTip": "spaceshooter\\gamedev.Designer.cs*",
+              "ViewState": "AgIAAA0AAAAAAQAAAAD6vxsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T07:51:08.011Z",
               "EditorCaption": ""
@@ -72,41 +72,41 @@
               "Title": "gamedev.cs [Design]",
               "DocumentMoniker": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gamedev.cs",
               "RelativeDocumentMoniker": "spaceshooter\\gamedev.cs",
-              "ToolTip": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gamedev.cs [Design]",
-              "RelativeToolTip": "spaceshooter\\gamedev.cs [Design]",
+              "ToolTip": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gamedev.cs [Design]*",
+              "RelativeToolTip": "spaceshooter\\gamedev.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T07:47:37.53Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\Program.cs",
               "RelativeDocumentMoniker": "spaceshooter\\Program.cs",
               "ToolTip": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\Program.cs",
               "RelativeToolTip": "spaceshooter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAACAzczMzMwJwAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-24T15:28:17.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "gameover.cs",
               "DocumentMoniker": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gameover.cs",
               "RelativeDocumentMoniker": "spaceshooter\\gameover.cs",
               "ToolTip": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\gameover.cs",
               "RelativeToolTip": "spaceshooter\\gameover.cs",
-              "ViewState": "AgIAABYAAABgmZmZmdkowA4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAACgMjMzM7MiwA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-24T14:59:23.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Resources.resx",
               "DocumentMoniker": "E:\\Hassnain BSCS\\oop projects\\spaceshooter\\spaceshooter\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "spaceshooter\\Properties\\Resources.resx",
