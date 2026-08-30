@@ -1,0 +1,7 @@
+E:\Hassnain BSCS\oop class\mids\mids\bin\Debug\mids.exe.config
+E:\Hassnain BSCS\oop class\mids\mids\bin\Debug\mids.exe
+E:\Hassnain BSCS\oop class\mids\mids\bin\Debug\mids.pdb
+E:\Hassnain BSCS\oop class\mids\mids\obj\Debug\mids.csproj.AssemblyReference.cache
+E:\Hassnain BSCS\oop class\mids\mids\obj\Debug\mids.csproj.CoreCompileInputs.cache
+E:\Hassnain BSCS\oop class\mids\mids\obj\Debug\mids.exe
+E:\Hassnain BSCS\oop class\mids\mids\obj\Debug\mids.pdb
